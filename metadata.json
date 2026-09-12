@@ -1,0 +1,6 @@
+{
+  "name": "DineNest | Restaurant Discovery & Table Reservations",
+  "description": "Discover exceptional restaurants, unforgettable dishes, curated collections, table reservations, and live order tracking with DineNest.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
